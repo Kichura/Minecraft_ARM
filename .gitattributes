@@ -1,0 +1,26 @@
+# .json files should be marked as JavaScript.
+*.json linguist-language=JavaScript 
+
+# .json5 files should be marked as JSON5.
+*.json5 linguist-language=JSON5
+
+# .yml files should be marked as YAML.
+*.yml linguist-language=YAML
+
+# .toml files should be marked as TOML.
+*.toml linguist-language=TOML
+
+# .jar and .properties files should both be marked as Java.
+*.jar linguist-language=Java
+*.properties linguist-language=Java
+
+# .txt files should be marked as Text.
+*.txt linguist-language=Text
+
+# Attempt to make these files not available upon cloning/download.
+README.md export-ignore
+LICENSE export-ignore
+.gitattributes export-ignore
+
+# While this is almost considered to be pointless to add, It does give away some hints with programming languages that have been used; although shouldn't be confused as
+# this repository being a decompiled modpack, however diagnosis can be done at anytime.
