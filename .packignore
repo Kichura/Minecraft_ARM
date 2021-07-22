@@ -1,0 +1,17 @@
+.minecraft/.fabric
+.minecraft/.mixin.out
+.minecraft/config
+.minecraft/coremods
+.minecraft/crash-reports
+.minecraft/logs
+.minecraft/mods
+.minecraft/resourcepacks
+.minecraft/saves
+.minecraft/screenshots
+.minecraft/server-resource-packs
+.minecraft/texturepacks
+.minecraft/options.txt
+.minecraft/servers.dat
+.minecraft/servers.dat_old
+.minecraft/realms_persistence.json
+.minecraft/usercache.json
