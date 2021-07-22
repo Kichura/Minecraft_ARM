@@ -5,8 +5,8 @@ An experimental MultiMC instance for trying to add ARM support to Minecraft such
 
 ### Requirements
 A [newer java version](https://jdk.java.net/17) is required for ARM devices,
-LWJGL [3.2.3](https://pastebin.com/raw/DabMxEjh) or [3.3.0-Snapshot](https://pastebin.com/raw/c9EfPWSk) is required for ARM devices (3.2.3 has linux ARM64 only),
-Minecraft 1.16.5 or newer is required for both to work as 1.8.9 does not make use of them.
+LWJGL [3.2.3](https://pastebin.com/raw/DabMxEjh) or [3.3.0-Snapshot](https://pastebin.com/raw/c9EfPWSk) is required for ARM devices and
+Minecraft 1.16.5 or newer is required for both to work as 1.8.9 does not make use of them + LWJGL 3.2.3 only has Linux-ARM64 support.
 
 ### Installing the modpack
 Download the modpack by pressing "code" and then Download ZIP. From there you need to import the ZIP using MultiMC by clicking on "Add instance" -> Import from zip.
