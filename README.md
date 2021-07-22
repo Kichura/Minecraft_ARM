@@ -5,7 +5,7 @@ An experimental MultiMC instance for trying to add ARM support to Minecraft such
 
 ### Requirements
 A [newer java version](https://jdk.java.net/17) is required for ARM devices,
-LWJGL [3.2.3](https://pastebin.com/raw/kMhc9S1T) or [3.3.0-Snapshot](https://pastebin.com/raw/c9EfPWSk) is required for ARM devices,
+LWJGL [3.2.3](https://pastebin.com/raw/DabMxEjh) or [3.3.0-Snapshot](https://pastebin.com/raw/c9EfPWSk) is required for ARM devices (3.2.3 has linux ARM64 only),
 Minecraft 1.16.5 or newer is required for both to work as 1.8.9 does not make use of them.
 
 ### Installing the modpack
@@ -14,3 +14,6 @@ Once installed, Edit the instance and then jump to "settings" and replace the or
 
 ### Disclaimer
 While this modpack claims to do what it says on the tin, it is very experimental and can lead to problems unless you know what you are doing then feel free to test it out for yourself; otherwise don't do this at all.
+
+### License
+minecraft_arm is license under MIT, a free and open-source license. For more information, please see the [license file](https://github.com/Kichura/minecraft_arm/blob/standard/LICENSE).
