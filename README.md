@@ -16,4 +16,4 @@ Once installed, Edit the instance and then jump to "settings" and replace the or
 While this modpack claims to do what it says on the tin, it is very experimental and can lead to problems unless you know what you are doing then feel free to test it out for yourself; otherwise don't do this at all.
 
 ### License
-Minecraft_ARM is license under MIT, a free and open-source license. For more information, please see the [license file](https://github.com/Kichura/minecraft_arm/blob/standard/LICENSE).
+Minecraft_ARM is licensed under MIT, a free and open-source license. For more information, please see the [license file](https://github.com/Kichura/minecraft_arm/blob/standard/LICENSE).
