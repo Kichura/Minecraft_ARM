@@ -2,7 +2,7 @@
     "components": [
         {
             "cachedName": "LWJGL 3",
-            "cachedVersion": "3.3.0",
+            "cachedVersion": "3.2.3",
             "cachedVolatile": true,
             "dependencyOnly": true,
             "uid": "org.lwjgl3",
@@ -17,10 +17,10 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "cachedVersion": "1.18_experimental-snapshot-2",
+            "cachedVersion": "21w37a",
             "important": true,
             "uid": "net.minecraft",
-            "version": "1.18_experimental-snapshot-2"
+            "version": "21w37a"
         },
     ],
     "formatVersion": 1
