@@ -21,4 +21,4 @@ While this modpack claims to do what it says on the tin, it is very experimental
 
 ## License
 
-Minecraft_ARM is licensed under MIT, a free and open-source license. For more information, please see the [license file](https://github.com/Kichura/minecraft_arm/blob/standard/LICENSE).
+Minecraft_ARM is licensed under MIT, a free and open-source license. For more information, please see the [license file](https://github.com/Kichura/Minecraft_ARM/blob/Trunk/LICENSE).
