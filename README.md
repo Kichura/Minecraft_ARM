@@ -11,7 +11,7 @@ Minecraft 1.16.5 or newer is required for both to work as 1.8.9 does not make us
 
 ## Installing the modpack
 
-1. [**Click here to download the modpack,**](https://github.com/Kichura/Minecraft_ARM/archive/refs/heads/Trunk.zip)
+1. [**Click here to download the modpack**](https://github.com/Kichura/Minecraft_ARM/archive/refs/heads/Trunk.zip),
 2. Drag the ZIP into the MultiMC window,
 3. Make sure the installed instance has Java 16 or greater installed.
 
