@@ -11,8 +11,9 @@ Minecraft 1.16.5 or newer is required for both to work as 1.8.9 does not make us
 
 ## Installing the modpack
 
-Download the modpack by pressing "code" and then Download ZIP. From there you need to import the ZIP using MultiMC by clicking on "Add instance" -> Import from ZIP.
-Once installed, Edit the instance and then jump to "settings" and replace the original javaw/java executable with the updated one. To update LWJGL (if it isn't yet); Go to "Version" and customize LWJGL 3 then edit it so that you can one of the LWJGL versions as above.
+1. [**Click here to download the modpack,**](https://github.com/Kichura/Minecraft_ARM/archive/refs/heads/Trunk.zip)
+2. Drag the ZIP into the MultiMC window,
+3. Make sure the installed instance has Java 16 or greater installed.
 
 ## Disclaimer
 
