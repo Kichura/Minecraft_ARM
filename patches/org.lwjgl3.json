@@ -9,7 +9,7 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "3ec809f4d6340d4784232a69bedd68b64ff9080e",
+                    "sha1": "899e34f314525596f8fdb6476d3e56104da4601d",
                     "size": 128614,
                     "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-glfw/3.3.0/lwjgl-glfw-3.3.0.jar"
                 }
@@ -19,7 +19,7 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "3ec809f4d6340d4784232a69bedd68b64ff9080e",
+                    "sha1": "899e34f314525596f8fdb6476d3e56104da4601d",
                     "size": 128614,
                     "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-glfw/3.3.0/lwjgl-glfw-3.3.0.jar"
                 },
@@ -145,7 +145,7 @@
                 },
                 "classifiers": {
                     "natives-linux": {
-                        "sha1": "13198bf01cf8512d41c5a3d6cea78940f27787aa",
+                        "sha1": "ec44eb3dd863e644160daa570d63f52be5b6c893",
                         "size": 476826,
                         "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-openal/3.3.0/lwjgl-openal-3.3.0-natives-linux.jar"
                     },
@@ -265,7 +265,7 @@
                 },
                 "classifiers": {
                     "natives-linux": {
-                        "sha1": "c099f1406b9804617e2918b402584553cf8b11d1",
+                        "sha1": "4c1a538d22f9b4f11857fc9a244b7e8f65c145da",
                         "size": 227248,
                         "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-stb/3.3.0/lwjgl-stb-3.3.0-natives-linux.jar"
                     },
