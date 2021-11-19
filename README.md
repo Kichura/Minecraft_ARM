@@ -16,10 +16,6 @@ Minecraft 1.16.5 or newer is required for both to work as 1.8.9 does not make us
 2. Drag the ZIP into the MultiMC window,
 3. Make sure the installed instance has Java 16 or greater installed.
 
-## Disclaimer
-
-While this modpack claims to do what it says on the tin, it is very experimental and can lead to problems unless you know what you are doing then feel free to test it out for yourself; otherwise don't do this at all.
-
 ## License
 
 Minecraft_ARM is licensed under MIT, a free and open-source license. For more information, please see the [license file](https://github.com/Kichura/Minecraft_ARM/blob/Trunk/LICENSE).
