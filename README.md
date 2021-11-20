@@ -1,7 +1,7 @@
 ![MCWine Icon](https://github.com/Kichura/Minecraft_ARM/blob/Trunk/launcher-icon.png)
 # Minecraft (ARM Support)
 
-An experimental MultiMC instance for trying to add ARM support to Minecraft such as M1 devices. No mods will be included except latest snapshot available.
+An experimental MultiMC modpack for trying to add ARM support to Minecraft such as M1 devices. No mods will be included except latest snapshot available.
 
 *(This project is not meant for full reproduction use as it can contain bugs/glitches, If you are sensitive to these kinds of issues; Please don't use this modpack unless you know any better!)*
 
