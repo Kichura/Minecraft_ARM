@@ -3,7 +3,7 @@
 
 An experimental MultiMC instance for trying to add ARM support to Minecraft such as M1 devices. No mods will be included except latest snapshot available.
 
-*(This project is not meant for full reproduction as it can contain bugs/glitches, If you are sensitive to these kinds of issues; Please don't use this modpack unless you know any better!)*
+*(This project is not meant for full reproduction use as it can contain bugs/glitches, If you are sensitive to these kinds of issues; Please don't use this modpack unless you know any better!)*
 
 ## Requirements
 A [newer java version](https://www.azul.com/downloads/?package=jdk#download-openjdk) is required for ARM devices,
