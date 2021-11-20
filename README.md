@@ -8,7 +8,7 @@ An experimental MultiMC instance for trying to add ARM support to Minecraft such
 ## Requirements
 A [newer java version](https://www.azul.com/downloads/?version=java-17-lts&package=jdk) is required for ARM devices,
 LWJGL [3.3.0](https://github.com/Kichura/Minecraft_ARM/raw/Trunk/patches/org.lwjgl3.json) is required for ARM devices and 
-Minecraft 1.16.5 or newer is required for both to work as 1.8.9 does not make use of them + LWJGL 3.2.3 only has Linux-ARM64 support.
+Minecraft 1.16.5 or newer is required for both to work as 1.8.9 does not make use of them and LWJGL 3.2.2 lacks ARM support entirely.
 
 ## Installing the modpack
 
