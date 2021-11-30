@@ -17,10 +17,10 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "cachedVersion": "1.18-rc3",
+            "cachedVersion": "1.18",
             "important": true,
             "uid": "net.minecraft",
-            "version": "1.18-rc3"
+            "version": "1.18"
         },
     ],
     "formatVersion": 1
