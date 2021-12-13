@@ -1,4 +1,6 @@
+#
 # Java related file extensions.
+#
 *.java          linguist-language=java
 *.class         linguist-language=java
 *.groovy        linguist-language=java
@@ -6,7 +8,9 @@
 *.gradle        linguist-language=java
 *.jar           linguist-language=java
 
+#
 # JavaScript related file extensions.
+#
 *.json          linguist-language=javascript
 *.json5         linguist-language=javascript
 *.js            linguist-language=javascript
@@ -15,16 +19,22 @@
 *.toml          linguist-language=javascript
 *.yml           linguist-language=javascript
 
+#
 # Kotlin related file extensions.
+#
 *.kt            linguist-language=kotlin
 *.kts           linguist-language=kotlin
 *.gradle.kts    linguist-language=kotlin
 
+#
 # Document file extensions.
+#
 *.md       linguist-language=markdown
 *.txt      linguist-language=text
 
+#
 # Image file extensions.
+#
 *.bmp      binary
 *.png      binary
 *.jpg      binary
@@ -33,13 +43,17 @@
 *.svg      binary
 *.webp     binary
 
+#
 # Archive file extensions.
+#
 *.7z       binary
 *.rar      binary
 *.tar      binary
 *.zip      binary
 
-# Mark all github-related data as text.
+#
+# Mark all git*-related data as text.
+#
 AUTHORS           text
 CHANGELOG         text
 CHANGES           text
@@ -51,7 +65,9 @@ LICENSE           text
 NEWS              text
 TODO              text
 
+#
 # Attempt to make these files not available upon cloning/download.
+#
 CODE_OF_CONDUCT.md export-ignore
 CONTRIBUTING.md export-ignore
 README.md export-ignore
