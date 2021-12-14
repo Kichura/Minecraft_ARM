@@ -88,3 +88,17 @@ TODO export-ignore
 .github/FUNDING.yml export-ignore
 .github export-ignore
 .github/workflows export-ignore
+.git export-ignore
+.gitlab export-ignore
+.gitlab/issue_templates export-ignore
+.gitlab/merge_request_templates export-ignore
+.gitlab/ci export-ignore
+.gitlab/dashboards export-ignore
+.gitlab/agents export-ignore
+.gitlab/route-map.yml export-ignore
+.gitlab/auto-deploy-values.yaml export-ignore
+.gitlab/managed-apps export-ignore
+.gitlab/insights.yml export-ignore
+.gitlab/service_desk_templates export-ignore
+.gitlab/.gitlab-webide.yml export-ignore
+.gitlab/CODEOWNERS export-ignore
