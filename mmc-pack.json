@@ -22,6 +22,31 @@
             "uid": "net.minecraft",
             "version": "1.18.1"
         },
+        {
+            "cachedName": "Intermediary Mappings",
+            "cachedRequires": [
+                {
+                    "equals": "1.18.1",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "cachedVersion": "1.18.1",
+            "cachedVolatile": true,
+            "dependencyOnly": true,
+            "uid": "net.fabricmc.intermediary",
+            "version": "1.18.1"
+        },
+        {
+            "cachedName": "Fabric Loader",
+            "cachedRequires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "cachedVersion": "0.12.12",
+            "uid": "net.fabricmc.fabric-loader",
+            "version": "0.12.12"
+        }
     ],
     "formatVersion": 1
 }
