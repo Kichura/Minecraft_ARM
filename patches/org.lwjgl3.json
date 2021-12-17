@@ -184,7 +184,7 @@
                         "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-openal/3.3.0/lwjgl-openal-3.3.0-natives-linux-arm64.jar"
                     },
                     "natives-macos": {
-                        "sha1": "0c2aeece32055542a8ae0946d3865b4a78192b7e",
+                        "sha1": "aef03dcc854e22d6a7c5ea4fc886c9aaec9868f3",
                         "size": 397197,
                         "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-openal/3.3.0/lwjgl-openal-3.3.0-natives-macos.jar"
                     },
@@ -328,7 +328,7 @@
                         "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-stb/3.3.0/lwjgl-stb-3.3.0-natives-linux-arm64.jar"
                     },
                     "natives-macos": {
-                        "sha1": "c81866e3cbed1d9d43ad9abefb570756bf47ce13",
+                        "sha1": "9db44584a39632780200eab18b9bea14231dd23a",
                         "size": 202156,
                         "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-stb/3.3.0/lwjgl-stb-3.3.0-natives-macos.jar"
                     },
