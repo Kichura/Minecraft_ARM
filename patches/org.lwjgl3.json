@@ -50,7 +50,7 @@
                         "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-glfw/3.3.0/lwjgl-glfw-3.3.0-natives-macos-arm64.jar"
                     },
                     "natives-windows": {
-                        "sha1": "6d8da87ab25f0c47b4ba9eee7df764b81d056d8c",
+                        "sha1": "b2d71cebdfecc512131879573e835211cb47b91f",
                         "size": 145363,
                         "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-glfw/3.3.0/lwjgl-glfw-3.3.0-natives-windows.jar"
                     },
@@ -323,7 +323,7 @@
                         "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-stb/3.3.0/lwjgl-stb-3.3.0-natives-linux-arm32.jar"
                     },
                     "natives-linux-arm64": {
-                        "sha1": "e9a390727fb3e2f63b3eebcc38f1edb72a1e5816",
+                        "sha1": "a2b6b2e27fa31e4cd2f38d9b7ff5ebfc67d3e81b",
                         "size": 205476,
                         "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-stb/3.3.0/lwjgl-stb-3.3.0-natives-linux-arm64.jar"
                     },
