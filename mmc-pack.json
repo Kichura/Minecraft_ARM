@@ -9,6 +9,12 @@
             "version": "3.2.2"
         },
         {
+            "cachedName": "Log4j 2",
+            "cachedVersion": "2.17.0",
+            "cachedVolatile": true,
+            "uid": "org.apache.logging.log4j"
+        },
+        {
             "cachedName": "Minecraft",
             "cachedRequires": [
                 {
@@ -21,31 +27,6 @@
             "important": true,
             "uid": "net.minecraft",
             "version": "1.18.1"
-        },
-        {
-            "cachedName": "Intermediary Mappings",
-            "cachedRequires": [
-                {
-                    "equals": "1.18.1",
-                    "uid": "net.minecraft"
-                }
-            ],
-            "cachedVersion": "1.18.1",
-            "cachedVolatile": true,
-            "dependencyOnly": true,
-            "uid": "net.fabricmc.intermediary",
-            "version": "1.18.1"
-        },
-        {
-            "cachedName": "Fabric Loader",
-            "cachedRequires": [
-                {
-                    "uid": "net.fabricmc.intermediary"
-                }
-            ],
-            "cachedVersion": "0.12.12",
-            "uid": "net.fabricmc.fabric-loader",
-            "version": "0.12.12"
         }
     ],
     "formatVersion": 1
