@@ -30,8 +30,8 @@
           }
       },
       "name": "org.apache.logging.log4j:log4j-slf4j18-impl:2.17.0"
-    }
-  ],
+      }
+    ],
     "name": "Log4j 2",
     "order": -1,
     "releaseTime": "2021-12-18T01:57:00+00:00",
