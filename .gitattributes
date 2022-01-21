@@ -1,6 +1,7 @@
 #
 # Java related file extensions.
 #
+
 *.java          linguist-language=java
 *.class         linguist-language=java
 *.groovy        linguist-language=java
@@ -11,6 +12,7 @@
 #
 # JavaScript related file extensions.
 #
+
 *.json          linguist-language=javascript
 *.json5         linguist-language=javascript
 *.js            linguist-language=javascript
@@ -29,12 +31,14 @@
 #
 # Document file extensions.
 #
+
 *.md       linguist-language=markdown
 *.txt      linguist-language=text
 
 #
 # Image file extensions.
 #
+
 *.bmp      binary
 *.png      binary
 *.jpg      binary
@@ -46,6 +50,7 @@
 #
 # Archive file extensions.
 #
+
 *.7z       binary
 *.rar      binary
 *.tar      binary
@@ -54,6 +59,7 @@
 #
 # Mark all git*-related data as text.
 #
+
 AUTHORS           text
 CHANGELOG         text
 CHANGES           text
@@ -68,6 +74,7 @@ TODO              text
 #
 # Attempt to make these files not available upon cloning/download.
 #
+
 CODE_OF_CONDUCT.md export-ignore
 CONTRIBUTING.md export-ignore
 README.md export-ignore
