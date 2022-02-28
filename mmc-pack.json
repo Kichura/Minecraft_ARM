@@ -23,10 +23,10 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "cachedVersion": "1.18.2-rc1",
+            "cachedVersion": "1.18.2",
             "important": true,
             "uid": "net.minecraft",
-            "version": "1.18.2-rc1"
+            "version": "1.18.2"
         }
     ],
     "formatVersion": 1
