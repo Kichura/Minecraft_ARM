@@ -93,7 +93,7 @@
                 "classifiers": {
                     "natives-linux": {
                         "sha1": "33dbb017b6ed6b25f993ad9d56741a49e7937718",
-                        "size": 166526,
+                        "size": 166524,
                         "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-jemalloc/3.3.1/lwjgl-jemalloc-3.3.1-natives-linux.jar"
                     },
                     "natives-linux-arm32": {
@@ -165,7 +165,7 @@
                 "classifiers": {
                     "natives-linux": {
                         "sha1": "f906b6439f6daa66001182ea7727e3467a93681b",
-                        "size": 476826,
+                        "size": 476825,
                         "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1-natives-linux.jar"
                     },
                     "natives-linux-arm32": {
