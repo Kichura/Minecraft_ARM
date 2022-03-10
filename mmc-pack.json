@@ -2,7 +2,7 @@
     "components": [
         {
             "cachedName": "LWJGL 3",
-            "cachedVersion": "3.3.0",
+            "cachedVersion": "3.3.1",
             "cachedVolatile": true,
             "dependencyOnly": true,
             "uid": "org.lwjgl3",
@@ -10,7 +10,7 @@
         },
         {
             "cachedName": "Apache Log4j 2",
-            "cachedVersion": "2.17.1",
+            "cachedVersion": "2.17.2",
             "cachedVolatile": true,
             "uid": "org.apache.logging.log4j"
         },
