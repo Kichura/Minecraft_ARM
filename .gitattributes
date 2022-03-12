@@ -1,45 +1,35 @@
 #
-# Java related file extensions.
+# Java/script related file extensions.
 #
 
-*.java          linguist-language=java
-*.class         linguist-language=java
-*.groovy        linguist-language=java
-*.scala         linguist-language=java
-*.gradle        linguist-language=java
-*.jar           linguist-language=java
-
-#
-# JavaScript related file extensions.
-#
-
-*.json          linguist-language=javascript
-*.json5         linguist-language=javascript
-*.js            linguist-language=javascript
-*.mjs           linguist-language=javascript
-*.jsonld        linguist-language=javascript
-*.toml          linguist-language=javascript
-*.yml           linguist-language=javascript
+*.json          linguist-detectable=true
+*.json5         linguist-detectable=true
+*.js            linguist-detectable=true
+*.mjs           linguist-detectable=true
+*.jsonld        linguist-detectable=true
+*.toml          linguist-detectable=true
+*.yml           linguist-detectable=true
 
 #
 # Kotlin related file extensions.
 #
 
-*.kt            linguist-language=kotlin
-*.kts           linguist-language=kotlin
-*.gradle.kts    linguist-language=kotlin
+*.kt            linguist-detectable=true
+*.kts           linguist-detectable=true
+*.gradle.kts    linguist-detectable=true
 
 #
 # Document file extensions.
 #
 
-*.md       linguist-language=markdown
-*.txt      linguist-language=text
+*.md       linguist-detectable=true
+*.txt      linguist-detectable=true
 
 #
-# Image file extensions.
+# Binary file extensions.
 #
 
+*.jar      binary
 *.bmp      binary
 *.png      binary
 *.jpg      binary
@@ -47,11 +37,6 @@
 *.gif      binary
 *.svg      binary
 *.webp     binary
-
-#
-# Archive file extensions.
-#
-
 *.7z       binary
 *.rar      binary
 *.tar      binary
@@ -110,3 +95,10 @@ TODO export-ignore
 .gitlab/service_desk_templates export-ignore
 .gitlab/.gitlab-webide.yml export-ignore
 .gitlab/CODEOWNERS export-ignore
+
+#
+# Packwiz stuff - We don't need this for ZIP.
+#
+
+packwiz export-ignore
+update.sh export-ignore
