@@ -24,6 +24,7 @@
 #
 # Kotlin related file extensions.
 #
+
 *.kt            linguist-language=kotlin
 *.kts           linguist-language=kotlin
 *.gradle.kts    linguist-language=kotlin
