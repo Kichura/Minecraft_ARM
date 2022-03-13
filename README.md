@@ -3,8 +3,6 @@
 
 An experimental MultiMC modpack for trying to add ARM support to Minecraft such as M1 devices. No mods will be included except latest snapshot available.
 
-*(This project is not meant for full reproduction use as it can contain bugs/glitches, If you are sensitive to these kinds of issues; Please don't use this modpack unless you know any better!)*
-
 ## Requirements
 A [newer java version](https://www.azul.com/downloads/?version=java-17-lts&package=jdk) is required for ARM devices,
 LWJGL [3.3.1](https://github.com/Kichura/Minecraft_ARM/raw/Trunk/patches/org.lwjgl3.json) is required for ARM devices and 
