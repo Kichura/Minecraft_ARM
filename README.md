@@ -1,7 +1,7 @@
 ![Minecraft_ARM Icon](https://i.imgur.com/BkiofZK.png)
 # Minecraft (ARM Support)
 
-An experimental MultiMC modpack for trying to add ARM support to Minecraft such as M1 devices. No mods will be included except latest snapshot available.
+An experimental MultiMC modpack for trying to add ARM support to Minecraft such as M1 devices. No mods will be included except latest release available.
 
 ## Requirements
 A [newer java version](https://www.azul.com/downloads/?version=java-17-lts&package=jdk) is required for ARM devices,
