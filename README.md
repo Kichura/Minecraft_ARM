@@ -1,12 +1,12 @@
 ![Minecraft_ARM Icon](https://i.imgur.com/BkiofZK.png)
 # Minecraft (ARM Support)
 
-An experimental MultiMC modpack that attempts to add ARM support to Minecraft such as M1 devices and Raspberry Pis. No mods will be included except latest release available.
+An experimental MultiMC modpack that attempts to add ARM support to Minecraft such as the M1 macOS devices and Raspberry Pis, No mods will be included except latest release available.
 
 ## Requirements
 A [newer java version](https://www.azul.com/downloads/?version=java-18-sts&package=jdk) is required for ARM devices including [LWJGL 3.3.1](https://github.com/Kichura/Minecraft_ARM/raw/Trunk/patches/org.lwjgl3.json),
 
-and Minecraft 1.14 atleast is required aswell for both to work as 1.8.9 - 1.13.2 do not support both patches at all.
+and finally; Minecraft 1.14 or newer is required aswell for both to work as 1.8.9 - 1.13.2 do not support both patches at all.
 
 ## Installing the modpack
 
