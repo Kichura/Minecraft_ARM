@@ -1,6 +1,10 @@
+.minecraft/config
+.minecraft/coremods
 .minecraft/crash-reports
 .minecraft/logs
+.minecraft/mods
 .minecraft/options.txt
+.minecraft/patched_shaders
 .minecraft/realms_persistence.json
 .minecraft/resourcepacks
 .minecraft/saves
@@ -8,5 +12,6 @@
 .minecraft/server-resource-packs
 .minecraft/servers.dat
 .minecraft/servers.dat_old
+.minecraft/shaderpacks
 .minecraft/texturepacks
 .minecraft/usercache.json
