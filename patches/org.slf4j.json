@@ -1,0 +1,21 @@
+{
+    "formatVersion": 1,
+    "libraries": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "30d326fc10810e7d6d948dfad32f6bb542487e8f",
+                    "size": 60713,
+                    "url": "https://repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.0-alpha7/slf4j-api-2.0.0-alpha7.jar"
+                }
+            },
+            "name": "org.slf4j:slf4j-api:2.0.0-alpha7"
+        }
+    ],
+    "name": "SLF4J",
+    "releaseTime": "2022-03-17T18:36:00+00:00",
+    "type": "release",
+    "uid": "org.slf4j",
+    "version": "2.0.0-alpha7",
+    "volatile": true
+}
