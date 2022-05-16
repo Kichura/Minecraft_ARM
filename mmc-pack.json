@@ -8,6 +8,7 @@
             "uid": "org.lwjgl3",
             "version": "3.2.2"
         },
+        {
             "cachedName": "SLF4J",
             "cachedVersion": "2.0.0-alpha7",
             "cachedVolatile": true,
