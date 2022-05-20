@@ -13,6 +13,7 @@
         }
     ],
     "name": "SLF4J",
+    "order": -1,
     "releaseTime": "2022-03-17T18:36:00+00:00",
     "type": "release",
     "uid": "org.slf4j",
