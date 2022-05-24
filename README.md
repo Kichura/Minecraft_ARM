@@ -8,7 +8,7 @@ A [newer java version](https://www.azul.com/downloads/?version=java-18-sts&packa
 
 and finally; Minecraft 1.14 or newer is required aswell for both to work as 1.8.9 - 1.13.2 do not support all three patches at all.
 
-## Installing the modpack
+## Installing The Modpack
 
 1. [**Click here to download the modpack**](https://github.com/Kichura/Minecraft_ARM/archive/refs/heads/dev.zip),
 2. Drag the ZIP into the MultiMC window,
