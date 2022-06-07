@@ -10,7 +10,7 @@ and finally; Minecraft 1.14 or newer is required aswell for both to work as 1.8.
 
 ## Installing The Modpack
 
-1. [**Click here to download the modpack**](https://github.com/Kichura/Minecraft_ARM/archive/refs/heads/dev.zip),
+1. [**Click here to download the modpack**](https://github.com/Kichura/Minecraft_ARM/archive/refs/heads/stable.zip),
 2. Drag the ZIP into the MultiMC window,
 3. Make sure the installed instance has Java 17 or greater installed.
 
