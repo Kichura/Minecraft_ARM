@@ -6,7 +6,7 @@
             "cachedVolatile": true,
             "dependencyOnly": true,
             "uid": "org.lwjgl3",
-            "version": "3.2.2"
+            "version": "3.3.1"
         },
         {
             "cachedName": "SLF4J",
@@ -26,16 +26,15 @@
             "cachedName": "Minecraft",
             "cachedRequires": [
                 {
-                    "equals": "3.2.2",
+                    "equals": "3.3.1",
                     "suggests": "3.3.1",
                     "uid": "org.lwjgl3"
                 }
             ],
-            "cachedVersion": "1.18.2",
+            "cachedVersion": "1.19",
             "important": true,
             "uid": "net.minecraft",
-            "version": "1.18.2"
+            "version": "1.19"
         }
     ],
-    
 }
