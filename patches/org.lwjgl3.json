@@ -291,9 +291,9 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "b119297cf8ed01f247abe8685857f8e7fcf5980f",
-                    "size": 112380,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1.jar"
+                    "sha1": "241ecfb343b2f5b94bbad7e6ccbf3859b02229b7",
+                    "size": 22717,
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-shaderc/3.3.1/lwjgl-shaderc-3.3.1.jar"
                 }
             },
             "name": "org.lwjgl:lwjgl-stb:3.3.1"
@@ -510,6 +510,16 @@
                     "sha1": "9c50b674f8d56039d8699a2264ed020873f87053",
                     "size": 98888,
                     "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-vma/3.3.1/lwjgl-vma-3.3.1.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-vma:3.3.1"
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "9c50b674f8d56039d8699a2264ed020873f87053",
+                    "size": 98888,
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-vma/3.3.1/lwjgl-vma-3.3.1.jar"
                 },
                 "classifiers": {
                     "natives-linux": {
@@ -565,6 +575,16 @@
                 "windows-x86": "natives-windows-x86",
                 "windows-arm64": "natives-windows-arm64"
             }
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "4af1ebb27699d743aba74797b7ac4567f3f1fd4a",
+                    "size": 4754626,
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-vulkan/3.3.1/lwjgl-vulkan-3.3.1.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-vulkan:3.3.1"
         },
         {
             "downloads": {
