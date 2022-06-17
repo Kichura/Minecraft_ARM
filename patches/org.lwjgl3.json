@@ -296,7 +296,7 @@
                     "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-shaderc/3.3.1/lwjgl-shaderc-3.3.1.jar"
                 }
             },
-            "name": "org.lwjgl:lwjgl-stb:3.3.1"
+            "name": "org.lwjgl:lwjgl-shaderc:3.3.1"
         },
         {
             "downloads": {
