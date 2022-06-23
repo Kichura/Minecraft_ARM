@@ -690,6 +690,6 @@
     "releaseTime": "2022-02-21T18:42:00+00:00",
     "type": "release",
     "uid": "org.lwjgl3",
-    "version": "3.3.1",
+    "version": "3.3.1_ARM-Support",
     "volatile": true
 }
