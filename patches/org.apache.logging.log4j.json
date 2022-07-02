@@ -1,41 +1,42 @@
 {
+  "formatVersion": 1,
   "libraries": [
     {
      "downloads": {
           "artifact": {
-              "sha1": "f42d6afa111b4dec5d2aea0fe2197240749a4ea6",
-              "size": 302511,
-              "url": "https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.17.2/log4j-api-2.17.2.jar"
+              "sha1": "c72ad9b1d8d42e4ea7befd8248bf05877af4c63d",
+              "size": 315115,
+              "url": "https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.18.0/log4j-api-2.18.0.jar"
           }
       },
-      "name": "org.apache.logging.log4j:log4j-api:2.17.2"
+      "name": "org.apache.logging.log4j:log4j-api:2.18.0"
 },
 {
       "downloads": {
           "artifact": {
-              "sha1": "fa43ba4467f5300b16d1e0742934149bfc5ac564",
-              "size": 1811089,
-              "url": "https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.17.2/log4j-core-2.17.2.jar"
+              "sha1": "07c1882ede137548925eadb750615edab2f6e13c",
+              "size": 1861441,
+              "url": "https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.18.0/log4j-core-2.18.0.jar"
           }
       },
-      "name": "org.apache.logging.log4j:log4j-core:2.17.2"
+      "name": "org.apache.logging.log4j:log4j-core:2.18.0"
 },
 {
       "downloads": {
           "artifact": {
-              "sha1": "79462d0451b93106225395b03362b1965984533b",
-              "size": 21241,
-              "url": "https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-slf4j18-impl/2.17.2/log4j-slf4j18-impl-2.17.2.jar"
+              "sha1": "12ac9a08c4115746d8f52f9b01d32c25d9a41add",
+              "size": 21526,
+              "url": "https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-slf4j18-impl/2.18.0/log4j-slf4j18-impl-2.18.0.jar"
           }
       },
-      "name": "org.apache.logging.log4j:log4j-slf4j18-impl:2.17.2"
+      "name": "org.apache.logging.log4j:log4j-slf4j18-impl:2.18.0"
       }
     ],
     "name": "Apache Log4j 2",
     "order": -1,
-    "releaseTime": "2022-02-23T20:28:00+00:00",
+    "releaseTime": "2022-06-28T22:03:00+00:00",
     "type": "release",
     "uid": "org.apache.logging.log4j",
-    "version": "2.17.2",
+    "version": "2.18.0",
     "volatile": true
 }
