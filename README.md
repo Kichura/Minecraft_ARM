@@ -1,7 +1,7 @@
 ![Minecraft_ARM Icon](https://i.imgur.com/BkiofZK.png)
 # Minecraft Java Edition (with ARM Support)
 
-This is a PolyMC modpack that attempts to add ARM support to Minecraft Java Edition such as the M2 macOS devices and Raspberry Pis, No mods will be included except latest release available.
+This is a PolyMC modpack that adds ARM support to Minecraft Java Edition such as the M2 macOS devices and Raspberry Pis, No mods will be included except latest release available.
 
 ## Requirements
 A [newer java version](https://bell-sw.com/pages/downloads/#/java-18-current) is required for ARM devices including [LWJGL 3.3.1 (+ ARM support)](https://github.com/Kichura/Minecraft_ARM/raw/stable/patches/org.lwjgl3.json),
