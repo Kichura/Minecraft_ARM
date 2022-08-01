@@ -6,7 +6,7 @@ This is a PolyMC modpack that adds ARM support to Minecraft Java Edition such as
 ## Requirements
 A [newer java version](https://bell-sw.com/pages/downloads/#/java-18-current) is required for ARM devices including [LWJGL 3.3.1 (+ ARM support)](https://github.com/Kichura/Minecraft_ARM/raw/stable/patches/org.lwjgl3.json),
 
-and finally; Minecraft 1.14 or newer is required aswell for both to work as 1.8.9 - 1.13.2 do not support all three patches whatsoever.
+and finally; Minecraft 1.14 or newer is required aswell for both to work as 1.7.2 - 1.13.2 do not support all three patches whatsoever.
 
 ## Installing The Modpack
 
