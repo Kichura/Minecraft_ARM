@@ -31,10 +31,10 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "cachedVersion": "1.19.1",
+            "cachedVersion": "1.19.2",
             "important": true,
             "uid": "net.minecraft",
-            "version": "1.19.1"
+            "version": "1.19.2"
         }
     ],
 }
