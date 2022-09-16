@@ -10,7 +10,7 @@
         },
         {
             "cachedName": "SLF4J",
-            "cachedVersion": "2.0.0-beta1",
+            "cachedVersion": "2.0.1",
             "cachedVolatile": true,
             "uid": "org.slf4j",
             "version": "1.8.0-beta4"
