@@ -24,12 +24,12 @@
 {
       "downloads": {
           "artifact": {
-              "sha1": "1a0c9615ba9fd5b96db8c1136afbef4394286e93",
-              "size": 25040,
-              "url": "https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-slf4j-impl/2.19.0/log4j-slf4j-impl-2.19.0.jar"
+              "sha1": "5c04bfdd63ce9dceb2e284b81e96b6a70010ee10",
+              "size": 27721,
+              "url": "https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-slf4j2-impl/2.19.0/log4j-slf4j2-impl-2.19.0.jar"
           }
       },
-      "name": "org.apache.logging.log4j:log4j-slf4j-impl:2.19.0"
+      "name": "org.apache.logging.log4j:log4j-slf4j2-impl:2.19.0"
       }
     ],
     "name": "Apache Log4j 2",
