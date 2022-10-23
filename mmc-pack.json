@@ -27,7 +27,7 @@
             "cachedRequires": [
                 {
                     "equals": "3.3.1",
-                    "suggests": "3.3.1",
+                    "suggests": "3.3.1-ARM",
                     "uid": "org.lwjgl3"
                 }
             ],
