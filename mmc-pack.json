@@ -13,14 +13,14 @@
             "cachedVersion": "2.0.5",
             "cachedVolatile": true,
             "uid": "org.slf4j",
-            "version": "1.8.0-beta4"
+            "version": "2.0.1"
         },
         {
             "cachedName": "Apache Log4j 2",
             "cachedVersion": "2.19.0",
             "cachedVolatile": true,
             "uid": "org.apache.logging.log4j",
-            "version": "2.17.1"
+            "version": "2.19.0"
         },
         {
             "cachedName": "Minecraft",
@@ -31,10 +31,10 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "cachedVersion": "1.19.2",
+            "cachedVersion": "1.19.3",
             "important": true,
             "uid": "net.minecraft",
-            "version": "1.19.2"
+            "version": "1.19.3"
         }
     ]
 }
