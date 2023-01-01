@@ -6,14 +6,14 @@
             "cachedVolatile": true,
             "dependencyOnly": true,
             "uid": "org.lwjgl3",
-            "version": "3.3.1"
+            "version": "3.3.1-ARM"
         },
         {
             "cachedName": "SLF4J",
             "cachedVersion": "2.0.6",
             "cachedVolatile": true,
             "uid": "org.slf4j",
-            "version": "2.0.1"
+            "version": "2.0.6"
         },
         {
             "cachedName": "Apache Log4j 2",
@@ -26,7 +26,7 @@
             "cachedName": "Minecraft",
             "cachedRequires": [
                 {
-                    "equals": "3.3.1",
+                    "equals": "3.3.1-ARM",
                     "suggests": "3.3.1-ARM",
                     "uid": "org.lwjgl3"
                 }
