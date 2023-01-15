@@ -1,7 +1,6 @@
 #
 # Java/script related file extensions.
 #
-
 *.js            linguist-detectable=true
 *.json          linguist-detectable=true
 *.json5         linguist-detectable=true
@@ -9,26 +8,20 @@
 *.mjs           linguist-detectable=true
 *.toml          linguist-detectable=true
 *.yml           linguist-detectable=true
-
 #
 # Kotlin related file extensions.
 #
-
 *.gradle.kts    linguist-detectable=true
 *.kt            linguist-detectable=true
 *.kts           linguist-detectable=true
-
 #
 # Document file extensions.
 #
-
 *.md       linguist-detectable=true
 *.txt      linguist-detectable=true
-
 #
 # Binary file extensions.
 #
-
 *.7z       binary
 *.bmp      binary
 *.gif      binary
@@ -41,11 +34,9 @@
 *.tar      binary
 *.webp     binary
 *.zip      binary
-
 #
 # Mark all git*-related data as text.
 #
-
 AUTHORS           text
 CHANGELOG         text
 CHANGES           text
@@ -56,11 +47,9 @@ INSTALL           text
 LICENSE           text
 NEWS              text
 TODO              text
-
 #
 # Attempt to make these files not available upon cloning/download.
 #
-
 .git export-ignore
 .gitattributes export-ignore
 .github export-ignore
