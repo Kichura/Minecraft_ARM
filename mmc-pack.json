@@ -16,11 +16,11 @@
             "version": "2.0.6"
         },
         {
-            "cachedName": "Apache Log4j 2",
-            "cachedVersion": "2.19.0",
+            "cachedName": "Apache Log4j",
+            "cachedVersion": "2.20.0",
             "cachedVolatile": true,
             "uid": "org.apache.logging.log4j",
-            "version": "2.19.0"
+            "version": "2.20.0"
         },
         {
             "cachedName": "Minecraft",
