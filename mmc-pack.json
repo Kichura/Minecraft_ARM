@@ -36,5 +36,6 @@
             "uid": "net.minecraft",
             "version": "1.19.4"
         }
-    ]
+    ],
+    "formatVersion": 1
 }
