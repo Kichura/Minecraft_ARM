@@ -2,11 +2,11 @@
     "components": [
         {
             "cachedName": "LWJGL 3",
-            "cachedVersion": "3.3.1-ARM",
+            "cachedVersion": "3.3.2-ARM",
             "cachedVolatile": true,
             "dependencyOnly": true,
             "uid": "org.lwjgl3",
-            "version": "3.3.1-ARM"
+            "version": "3.3.2-ARM"
         },
         {
             "cachedName": "SLF4J",
@@ -26,8 +26,8 @@
             "cachedName": "Minecraft",
             "cachedRequires": [
                 {
-                    "equals": "3.3.1-ARM",
-                    "suggests": "3.3.1-ARM",
+                    "equals": "3.3.2-ARM",
+                    "suggests": "3.3.2-ARM",
                     "uid": "org.lwjgl3"
                 }
             ],
