@@ -1,4 +1,9 @@
 {
+    "conflicts": [
+        {
+            "uid": "org.lwjgl"
+        }
+    ],
     "libraries": [
         {
             "downloads": {

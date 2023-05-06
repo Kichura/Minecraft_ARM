@@ -1,0 +1,21 @@
+{
+    "libraries": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "4e6cc1e2c2f2dafeee3731b70645e4a4bc999a6f",
+                    "size": 967446,
+                    "url": "https://repo1.maven.org/maven2/com/github/oshi/oshi-core/6.4.2/oshi-core-6.4.2.jar"
+                }
+            },
+            "name": "com.github.oshi:oshi-core:6.4.2"
+        }
+    ],
+    "name": "Oshi",
+    "order": -1,
+    "releaseTime": "2023-05-03T08:38:00+00:00",
+    "type": "release",
+    "uid": "com.github.oshi",
+    "version": "6.4.2",
+    "volatile": true
+}

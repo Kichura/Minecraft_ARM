@@ -23,6 +23,20 @@
             "version": "2.20.0"
         },
         {
+            "cachedName": "Netty",
+            "cachedVersion": "4.1.92.Final",
+            "cachedVolatile": true,
+            "uid": "io.netty",
+            "version": "4.1.92.Final"
+        },
+        {
+            "cachedName": "Oshi",
+            "cachedVersion": "6.4.2",
+            "cachedVolatile": true,
+            "uid": "com.github.oshi",
+            "version": "6.4.2"
+        },
+        {
             "cachedName": "Minecraft",
             "cachedRequires": [
                 {
