@@ -10,8 +10,8 @@
           }
       },
       "name": "org.apache.logging.log4j:log4j-api:2.20.0"
-},
-{
+    },
+    {
       "downloads": {
           "artifact": {
               "sha1": "eb2a9a47b1396e00b5eee1264296729a70565cc0",
@@ -20,8 +20,8 @@
           }
       },
       "name": "org.apache.logging.log4j:log4j-core:2.20.0"
-},
-{
+    },
+    {
       "downloads": {
           "artifact": {
               "sha1": "155c8b9bbdac91d8461d9a403a646e6bd0d365d8",
