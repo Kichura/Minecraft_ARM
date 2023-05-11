@@ -92,7 +92,7 @@
         {
             "action": "allow",
             "os": {
-                "name": "linux"
+                "name": "linux-x86_64"
                 }
             }
         ]

@@ -31,7 +31,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "linux"
+                        "name": "linux-x86_64"
                     }
                 }
             ]
@@ -88,7 +88,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "osx"
+                        "name": "osx-x86_64"
                     }
                 }
             ]
@@ -126,7 +126,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "windows"
+                        "name": "windows-x86_64"
                     }
                 }
             ]
@@ -194,8 +194,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "linux",
-                        "arch": "x86_64"
+                        "name": "linux-x86_64"
                     }
                 }
             ]
@@ -252,7 +251,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "osx"
+                        "name": "osx-x86_64"
                     }
                 }
             ]
@@ -290,7 +289,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "windows"
+                        "name": "windows-x86_64"
                     }
                 }
             ]
@@ -358,8 +357,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "linux",
-                        "arch": "x86_64"
+                        "name": "linux-x86_64"
                     }
                 }
             ]
@@ -416,7 +414,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "osx"
+                        "name": "osx-x86_64"
                     }
                 }
             ]
@@ -454,7 +452,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "windows"
+                        "name": "windows-x86_64"
                     }
                 }
             ]
@@ -522,8 +520,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "linux",
-                        "arch": "x86_64"
+                        "name": "linux-x86_64"
                     }
                 }
             ]
@@ -580,7 +577,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "osx"
+                        "name": "osx-x86_64"
                     }
                 }
             ]
@@ -618,7 +615,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "windows"
+                        "name": "windows-x86_64"
                     }
                 }
             ]
@@ -686,8 +683,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "linux",
-                        "arch": "x86_64"
+                        "name": "linux-x86_64"
                     }
                 }
             ]
@@ -744,7 +740,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "osx"
+                        "name": "osx-x86_64"
                     }
                 }
             ]
@@ -782,7 +778,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "windows"
+                        "name": "windows-x86_64"
                     }
                 }
             ]
@@ -850,8 +846,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "linux",
-                        "arch": "x86_64"
+                        "name": "linux-x86_64"
                     }
                 }
             ]
@@ -908,7 +903,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "osx"
+                        "name": "osx-x86_64"
                     }
                 }
             ]
@@ -946,7 +941,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "windows"
+                        "name": "windows-x86_64"
                     }
                 }
             ]
@@ -1014,8 +1009,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "linux",
-                        "arch": "x86_64"
+                        "name": "linux-x86_64"
                     }
                 }
             ]
@@ -1072,7 +1066,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "osx"
+                        "name": "osx-x86_64"
                     }
                 }
             ]
@@ -1110,7 +1104,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "windows"
+                        "name": "windows-x86_64"
                     }
                 }
             ]
@@ -1178,7 +1172,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "osx"
+                        "name": "osx-x86_64"
                     }
                 }
             ]
@@ -1227,8 +1221,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "linux",
-                        "arch": "x86_64"
+                        "name": "linux-x86_64"
                     }
                 }
             ]
@@ -1285,7 +1278,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "osx"
+                        "name": "osx-x86_64"
                     }
                 }
             ]
@@ -1323,7 +1316,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "windows"
+                        "name": "windows-x86_64"
                     }
                 }
             ]
@@ -1391,8 +1384,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "linux",
-                        "arch": "x86_64"
+                        "name": "linux-x86_64"
                     }
                 }
             ]
@@ -1449,7 +1441,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "osx"
+                        "name": "osx-x86_64"
                     }
                 }
             ]
@@ -1487,7 +1479,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "windows"
+                        "name": "windows-x86_64"
                     }
                 }
             ]
