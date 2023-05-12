@@ -13,7 +13,7 @@
     ],
     "name": "Oshi",
     "order": -1,
-    "releaseTime": "2023-05-03T08:38:00+00:00",
+    "releaseTime": "2023-05-03",
     "type": "release",
     "uid": "com.github.oshi",
     "version": "6.4.2",

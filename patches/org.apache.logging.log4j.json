@@ -34,7 +34,7 @@
     ],
     "name": "Apache Log4j",
     "order": -1,
-    "releaseTime": "2023-02-18T05:21:00+00:00",
+    "releaseTime": "2023-02-18",
     "type": "release",
     "uid": "org.apache.logging.log4j",
     "version": "2.20.0",

@@ -120,7 +120,7 @@
     ],
     "name": "Netty",
     "order": -1,
-    "releaseTime": "2023-04-25T09:38:00+00:00",
+    "releaseTime": "2023-04-25",
     "type": "release",
     "uid": "io.netty",
     "version": "4.1.92.Final",

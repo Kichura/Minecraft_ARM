@@ -13,7 +13,7 @@
     ],
     "name": "SLF4J",
     "order": -1,
-    "releaseTime": "2023-03-17T19:36:00+00:00",
+    "releaseTime": "2023-03-17",
     "type": "release",
     "uid": "org.slf4j",
     "version": "2.0.7",
