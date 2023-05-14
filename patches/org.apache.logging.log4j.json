@@ -32,7 +32,7 @@
       "name": "org.apache.logging.log4j:log4j-slf4j2-impl:2.20.0"
       }
     ],
-    "name": "Apache Log4j",
+    "name": "Apache Log4J",
     "order": -1,
     "releaseTime": "2023-02-18",
     "type": "release",

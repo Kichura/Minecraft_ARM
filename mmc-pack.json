@@ -16,7 +16,7 @@
             "version": "2.0.7"
         },
         {
-            "cachedName": "Apache Log4j",
+            "cachedName": "Apache Log4J",
             "cachedVersion": "2.20.0",
             "cachedVolatile": true,
             "uid": "org.apache.logging.log4j",
