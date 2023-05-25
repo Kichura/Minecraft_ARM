@@ -24,10 +24,10 @@
         },
         {
             "cachedName": "Netty",
-            "cachedVersion": "4.1.92.Final",
+            "cachedVersion": "4.1.93.Final",
             "cachedVolatile": true,
             "uid": "io.netty",
-            "version": "4.1.92.Final"
+            "version": "4.1.93.Final"
         },
         {
             "cachedName": "Oshi",
