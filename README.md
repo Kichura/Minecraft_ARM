@@ -6,7 +6,7 @@ This is a Prism Launcher Pack that adds ARM support to Minecraft Java Edition su
 ## Requirements
 [JDK 17 or newer](https://bell-sw.com/pages/downloads) is required for ARM devices including [LWJGL 3.3.2 (+ ARM support)](https://github.com/Kichura/Minecraft_ARM/raw/stable/patches/org.lwjgl3.json),
 
-and finally; Minecraft 1.14 or newer is required aswell for both to work as 1.7.2 - 1.13.2 do not support all three patches whatsoever.
+and finally; Minecraft 1.14 or newer is required aswell for both to work as 1.7.2 - 1.13.2 do not support all three patches whatsoever, The minimium minecraft version that is supported in snapshot sense is 19w06a,
 
 ## Installing The Pack
 
