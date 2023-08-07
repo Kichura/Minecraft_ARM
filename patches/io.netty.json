@@ -83,7 +83,7 @@
       "name": "io.netty:netty-transport-native-epoll:4.1.82.Final:linux-aarch_64",
       "rules": [
         {
-            "action": "deny",
+            "action": "disallow",
             "os": {
                 "name": "linux"
                 }
@@ -112,7 +112,7 @@
       "name": "io.netty:netty-transport-native-epoll:4.1.82.Final:linux-x86_64",
       "rules": [
         {
-            "action": "deny",
+            "action": "disallow",
             "os": {
                 "name": "linux"
                 }
