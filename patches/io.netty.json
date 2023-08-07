@@ -80,6 +80,17 @@
         ]
     },
     {
+      "name": "io.netty:netty-transport-native-epoll:4.1.82.Final:linux-aarch_64",
+      "rules": [
+        {
+            "action": "deny",
+            "os": {
+                "name": "linux"
+                }
+            }
+        ]
+    },
+    {
       "downloads": {
           "artifact": {
               "sha1": "3f8904e072cfc9a8d67c6fe567c39bcbce5c9c55",
@@ -93,6 +104,17 @@
             "action": "allow",
             "os": {
                 "name": "linux-x86_64"
+                }
+            }
+        ]
+    },
+    {
+      "name": "io.netty:netty-transport-native-epoll:4.1.82.Final:linux-x86_64",
+      "rules": [
+        {
+            "action": "deny",
+            "os": {
+                "name": "linux"
                 }
             }
         ]
@@ -119,7 +141,7 @@
       }
     ],
     "name": "Netty",
-    "order": -1,
+    "order": 4,
     "releaseTime": "2023-07-27",
     "type": "release",
     "uid": "io.netty",

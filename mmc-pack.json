@@ -9,11 +9,16 @@
             "version": "3.3.2-ARM_Support"
         },
         {
-            "cachedName": "SLF4J",
-            "cachedVersion": "2.0.7",
+            "cachedName": "Netty",
+            "cachedVersion": "4.1.96.Final",
             "cachedVolatile": true,
-            "uid": "org.slf4j",
-            "version": "2.0.7"
+            "uid": "io.netty",
+            "version": "4.1.96.Final"
+        },
+        {
+            "cachedName": "ca.weblite",
+            "uid": "ca.weblite",
+            "version": "1.2"
         },
         {
             "cachedName": "Apache Log4J",
@@ -23,11 +28,11 @@
             "version": "2.20.0"
         },
         {
-            "cachedName": "Netty",
-            "cachedVersion": "4.1.96.Final",
+            "cachedName": "SLF4J",
+            "cachedVersion": "2.0.7",
             "cachedVolatile": true,
-            "uid": "io.netty",
-            "version": "4.1.96.Final"
+            "uid": "org.slf4j",
+            "version": "2.0.7"
         },
         {
             "cachedName": "Oshi",

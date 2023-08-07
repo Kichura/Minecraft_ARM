@@ -39,25 +39,6 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lwjgl/lwjgl-glfw/3.3.2/lwjgl-glfw-3.3.2-natives-linux-arm32.jar",
-                    "sha1": "5907d9a6b7c44fb0612a63bb1cff5992588f65be",
-                    "size": 110067,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-glfw/3.3.2/lwjgl-glfw-3.3.2-natives-linux-arm32.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-glfw:3.3.2:natives-linux-arm32",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "linux-arm32"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
                     "path": "org/lwjgl/lwjgl-glfw/3.3.2/lwjgl-glfw-3.3.2-natives-linux-arm64.jar",
                     "sha1": "bc49e64bae0f7ff103a312ee8074a34c4eb034c7",
                     "size": 120168,
@@ -134,25 +115,6 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lwjgl/lwjgl-glfw/3.3.2/lwjgl-glfw-3.3.2-natives-windows-x86.jar",
-                    "sha1": "17e1f9ec031ef72c2f7825c38eeb3a79c4d8bb17",
-                    "size": 156550,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-glfw/3.3.2/lwjgl-glfw-3.3.2-natives-windows-x86.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-glfw:3.3.2:natives-windows-x86",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "windows-x86"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
                     "path": "org/lwjgl/lwjgl-glfw/3.3.2/lwjgl-glfw-3.3.2-natives-windows-arm64.jar",
                     "sha1": "e79c4857a887bd79ba78bdf2d422a7d333028a2d",
                     "size": 141892,
@@ -195,25 +157,6 @@
                     "action": "allow",
                     "os": {
                         "name": "linux-x86_64"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "path": "org/lwjgl/lwjgl-jemalloc/3.3.2/lwjgl-jemalloc-3.3.2-natives-linux-arm32.jar",
-                    "sha1": "9367437ce192e4d6f5725d53d85520644c0b0d6f",
-                    "size": 177571,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-jemalloc/3.3.2/lwjgl-jemalloc-3.3.2-natives-linux-arm32.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-jemalloc:3.3.2:natives-linux-arm32",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "linux-arm32"
                     }
                 }
             ]
@@ -297,25 +240,6 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lwjgl/lwjgl-jemalloc/3.3.2/lwjgl-jemalloc-3.3.2-natives-windows-x86.jar",
-                    "sha1": "9b07558f81a5d54dfaeb861bab3ccc86bb4477c9",
-                    "size": 148041,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-jemalloc/3.3.2/lwjgl-jemalloc-3.3.2-natives-windows-x86.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-jemalloc:3.3.2:natives-windows-x86",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "windows-x86"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
                     "path": "org/lwjgl/lwjgl-jemalloc/3.3.2/lwjgl-jemalloc-3.3.2-natives-windows-arm64.jar",
                     "sha1": "598790de603c286dbc4068b27829eacc37592786",
                     "size": 152780,
@@ -358,25 +282,6 @@
                     "action": "allow",
                     "os": {
                         "name": "linux-x86_64"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "path": "org/lwjgl/lwjgl-openal/3.3.2/lwjgl-openal-3.3.2-natives-linux-arm32.jar",
-                    "sha1": "7c82bbc33ef49ee4094b216c940db564b2998224",
-                    "size": 503352,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-openal/3.3.2/lwjgl-openal-3.3.2-natives-linux-arm32.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-openal:3.3.2:natives-linux-arm32",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "linux-arm32"
                     }
                 }
             ]
@@ -460,25 +365,6 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lwjgl/lwjgl-openal/3.3.2/lwjgl-openal-3.3.2-natives-windows-x86.jar",
-                    "sha1": "21fcb44d32ccf101017ec939fc740197677557d5",
-                    "size": 636273,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-openal/3.3.2/lwjgl-openal-3.3.2-natives-windows-x86.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-openal:3.3.2:natives-windows-x86",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "windows-x86"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
                     "path": "org/lwjgl/lwjgl-openal/3.3.2/lwjgl-openal-3.3.2-natives-windows-arm64.jar",
                     "sha1": "545ddec7959007a78b6662d616e00dacf00e1c29",
                     "size": 627059,
@@ -521,25 +407,6 @@
                     "action": "allow",
                     "os": {
                         "name": "linux-x86_64"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "path": "org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-linux-arm32.jar",
-                    "sha1": "821f9a2d1d583c44893f42b96f6977682b48a99b",
-                    "size": 59265,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-linux-arm32.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-opengl:3.3.2:natives-linux-arm32",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "linux-arm32"
                     }
                 }
             ]
@@ -623,25 +490,6 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-windows-x86.jar",
-                    "sha1": "22fa4149159154b24f6c1bd46a342d4958a9fba1",
-                    "size": 88610,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-windows-x86.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-opengl:3.3.2:natives-windows-x86",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "windows-x86"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
                     "path": "org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-windows-arm64.jar",
                     "sha1": "21df035bf03dbf5001f92291b24dc951da513481",
                     "size": 83132,
@@ -684,25 +532,6 @@
                     "action": "allow",
                     "os": {
                         "name": "linux-x86_64"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "path": "org/lwjgl/lwjgl-shaderc/3.3.2/lwjgl-shaderc-3.3.2-natives-linux-arm32.jar",
-                    "sha1": "f6e39e92a266f93f73d1f2242870cc2d46d11fb6",
-                    "size": 2397947,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-shaderc/3.3.2/lwjgl-shaderc-3.3.2-natives-linux-arm32.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-shaderc:3.3.2:natives-linux-arm32",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "linux-arm32"
                     }
                 }
             ]
@@ -786,25 +615,6 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lwjgl/lwjgl-shaderc/3.3.2/lwjgl-shaderc-3.3.2-natives-windows-x86.jar",
-                    "sha1": "9e0c19f65b1bb34b69ac976234cac9ba608a5fac",
-                    "size": 1409419,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-shaderc/3.3.2/lwjgl-shaderc-3.3.2-natives-windows-x86.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-shaderc:3.3.2:natives-windows-x86",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "windows-x86"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
                     "path": "org/lwjgl/lwjgl-shaderc/3.3.2/lwjgl-shaderc-3.3.2-natives-windows-arm64.jar",
                     "sha1": "ea9986df8eb012eb99c49b7ba888111f30a15b5f",
                     "size": 1477855,
@@ -847,25 +657,6 @@
                     "action": "allow",
                     "os": {
                         "name": "linux-x86_64"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "path": "org/lwjgl/lwjgl-stb/3.3.2/lwjgl-stb-3.3.2-natives-linux-arm32.jar",
-                    "sha1": "ca9333da184aade20757151f4615f1e27ca521ae",
-                    "size": 154928,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-stb/3.3.2/lwjgl-stb-3.3.2-natives-linux-arm32.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-stb:3.3.2:natives-linux-arm32",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "linux-arm32"
                     }
                 }
             ]
@@ -949,25 +740,6 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lwjgl/lwjgl-stb/3.3.2/lwjgl-stb-3.3.2-natives-windows-x86.jar",
-                    "sha1": "a0de7bde6722fa68d25ba6afbd7395508c53c730",
-                    "size": 227583,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-stb/3.3.2/lwjgl-stb-3.3.2-natives-windows-x86.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-stb:3.3.2:natives-windows-x86",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "windows-x86"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
                     "path": "org/lwjgl/lwjgl-stb/3.3.2/lwjgl-stb-3.3.2-natives-windows-arm64.jar",
                     "sha1": "c29df97c3cca97dc00d34e171936153764c9f78b",
                     "size": 218460,
@@ -1010,25 +782,6 @@
                     "action": "allow",
                     "os": {
                         "name": "linux-x86_64"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "path": "org/lwjgl/lwjgl-tinyfd/3.3.2/lwjgl-tinyfd-3.3.2-natives-linux-arm32.jar",
-                    "sha1": "807e220913aa0740449ff90d3b3d825cf5f359ed",
-                    "size": 48788,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-tinyfd/3.3.2/lwjgl-tinyfd-3.3.2-natives-linux-arm32.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-tinyfd:3.3.2:natives-linux-arm32",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "linux-arm32"
                     }
                 }
             ]
@@ -1105,25 +858,6 @@
                     "action": "allow",
                     "os": {
                         "name": "windows-x86_64"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "path": "org/lwjgl/lwjgl-tinyfd/3.3.2/lwjgl-tinyfd-3.3.2-natives-windows-x86.jar",
-                    "sha1": "0c1dfa1c438e0262453e7bf625289540e5cbffb2",
-                    "size": 111596,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-tinyfd/3.3.2/lwjgl-tinyfd-3.3.2-natives-windows-x86.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-tinyfd:3.3.2:natives-windows-x86",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "windows-x86"
                     }
                 }
             ]
@@ -1229,25 +963,6 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lwjgl/lwjgl-vma/3.3.2/lwjgl-vma-3.3.2-natives-linux-arm32.jar",
-                    "sha1": "0a2127137ec42954fb07e98a3e7cf80d2af46ec2",
-                    "size": 52632,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-vma/3.3.2/lwjgl-vma-3.3.2-natives-linux-arm32.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-vma:3.3.2:natives-linux-arm32",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "linux-arm32"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
                     "path": "org/lwjgl/lwjgl-vma/3.3.2/lwjgl-vma-3.3.2-natives-linux-arm64.jar",
                     "sha1": "31adf3ba20f1c29028931f5f3882748c1f936774",
                     "size": 56944,
@@ -1324,25 +1039,6 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lwjgl/lwjgl-vma/3.3.2/lwjgl-vma-3.3.2-natives-windows-x86.jar",
-                    "sha1": "974cc985cfdf36dfacf5a7a8b685c9e24c7dfb51",
-                    "size": 110660,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-vma/3.3.2/lwjgl-vma-3.3.2-natives-windows-x86.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-vma:3.3.2:natives-windows-x86",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "windows-x86"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
                     "path": "org/lwjgl/lwjgl-vma/3.3.2/lwjgl-vma-3.3.2-natives-windows-arm64.jar",
                     "sha1": "6d3f74fea056c1116dda5a50d07d64415ef9f886",
                     "size": 106196,
@@ -1385,25 +1081,6 @@
                     "action": "allow",
                     "os": {
                         "name": "linux-x86_64"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "path": "org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2-natives-linux-arm32.jar",
-                    "sha1": "afcbfaaa46f217e98a6da4208550f71de1f2a225",
-                    "size": 89347,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2-natives-linux-arm32.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl:3.3.2:natives-linux-arm32",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "linux-arm32"
                     }
                 }
             ]
@@ -1487,25 +1164,6 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2-natives-windows-x86.jar",
-                    "sha1": "ed495259b2c8f068794da0ffedfa7ae7c130b3c5",
-                    "size": 139365,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2-natives-windows-x86.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl:3.3.2:natives-windows-x86",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "windows-x86"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
                     "path": "org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2-natives-windows-arm64.jar",
                     "sha1": "d900e4678449ba97ff46fa64b22e0376bf8cd00e",
                     "size": 133200,
@@ -1524,8 +1182,8 @@
         }
     ],
     "name": "LWJGL 3",
-    "order": -1,
-    "releaseTime": "2023-04-01",
+    "order": 5,
+    "releaseTime": "2023-06-09",
     "type": "release",
     "uid": "org.lwjgl3",
     "version": "3.3.2-ARM_Support",
