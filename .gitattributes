@@ -1,72 +1,31 @@
 #
-# Java/script related file extensions.
+# Configuration file extensions.
 #
-*.js            linguist-detectable=true
+*.cfg           linguist-detectable=true
 *.json          linguist-detectable=true
 *.json5         linguist-detectable=true
-*.jsonld        linguist-detectable=true
-*.mjs           linguist-detectable=true
+*.properties    linguist-detectable=true
 *.toml          linguist-detectable=true
 *.yml           linguist-detectable=true
-#
-# Kotlin related file extensions.
-#
-*.gradle.kts    linguist-detectable=true
-*.kt            linguist-detectable=true
-*.kts           linguist-detectable=true
 #
 # Document file extensions.
 #
 *.md       linguist-detectable=true
 *.txt      linguist-detectable=true
 #
-# Binary file extensions.
+# Binaries and other file extensions.
 #
-*.7z       binary
-*.bmp      binary
-*.gif      binary
-*.jar      binary
-*.jpeg     binary
-*.jpg      binary
-*.png      binary
-*.rar      binary
-*.svg      binary
-*.tar      binary
-*.webp     binary
-*.zip      binary
-#
-# Mark all git*-related data as text.
-#
-AUTHORS           text
-CHANGELOG         text
-CHANGES           text
-CONTRIBUTING      text
-COPYING           text
-COPYRIGHT         text
-INSTALL           text
-LICENSE           text
-NEWS              text
-TODO              text
+*.jar               linguist-detectable=true
+*.png               binary
+*.zip               binary
+.gitattributes      text
+LICENSE             text
 #
 # Attempt to make these files not available upon cloning/download.
 #
 .git export-ignore
 .gitattributes export-ignore
-.github export-ignore
-.github/FUNDING.yml export-ignore
-.github/ISSUE_TEMPLATE export-ignore
-.github/PULL_REQUEST_TEMPLATE export-ignore
-.github/workflows export-ignore
-.gitignore export-ignore
-AUTHORS export-ignore
-CHANGELOG export-ignore
-CHANGES export-ignore
-CODE_OF_CONDUCT.md export-ignore
-CONTRIBUTING export-ignore
-CONTRIBUTING.md export-ignore
-COPYING export-ignore
-INSTALL export-ignore
-NEWS export-ignore
-README.md export-ignore
-SECURITY.md export-ignore
-TODO export-ignore
+sources export-ignore
+sources/jvm_arguments.md export-ignore
+sources/mods_used.md export-ignore
+sources/sources_list.md export-ignore
