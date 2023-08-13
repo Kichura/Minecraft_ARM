@@ -25,3 +25,4 @@ LICENSE             text
 #
 .git export-ignore
 .gitattributes export-ignore
+README.md export-ignore
