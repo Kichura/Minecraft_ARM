@@ -12,7 +12,7 @@
         }
     ],
     "name": "Oshi",
-    "order": 4,
+    "order": 1,
     "releaseTime": "2023-08-21",
     "type": "release",
     "uid": "com.github.oshi",
