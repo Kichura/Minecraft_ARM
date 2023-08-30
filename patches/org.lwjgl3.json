@@ -1183,9 +1183,9 @@
     ],
     "name": "LWJGL 3",
     "order": 5,
-    "releaseTime": "2023-06-09",
+    "releaseTime": "2023-08-30",
     "type": "release",
     "uid": "org.lwjgl3",
-    "version": "3.3.2-ARM_Support",
+    "version": "3.3.2",
     "volatile": true
 }
