@@ -11,11 +11,11 @@
 # Document file extensions.
 #
 *.md       linguist-detectable=true
-*.txt      linguist-detectable=true
+*.txt      text
 #
 # Binaries and other file extensions.
 #
-*.jar               linguist-detectable=true
+*.jar               binary
 *.png               binary
 *.zip               binary
 .gitattributes      text
