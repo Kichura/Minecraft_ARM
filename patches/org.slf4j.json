@@ -3,19 +3,19 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "41eb7184ea9d556f23e18b5cb99cad1f8581fc00",
-                    "size": 63635,
-                    "url": "https://repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7.jar"
+                    "sha1": "7cf2726fdcfbc8610f9a71fb3ed639871f315340",
+                    "size": 64579,
+                    "url": "https://repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar"
                 }
             },
-            "name": "org.slf4j:slf4j-api:2.0.7"
+            "name": "org.slf4j:slf4j-api:2.0.9"
         }
     ],
     "name": "SLF4J",
     "order": 2,
-    "releaseTime": "2023-03-17",
+    "releaseTime": "2023-09-03",
     "type": "release",
     "uid": "org.slf4j",
-    "version": "2.0.7",
+    "version": "2.0.9",
     "volatile": true
 }
