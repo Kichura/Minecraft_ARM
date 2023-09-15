@@ -16,4 +16,4 @@ and finally; Minecraft 1.14 or newer is required aswell for both to work as 1.7.
 
 ## License
 
-Minecraft_ARM is licensed under MIT, a free and open-source license. For more information, please see the [license file](https://github.com/Kichura/Minecraft_ARM/blob/stable/LICENSE).
+Minecraft_ARM is licensed under MIT *(No Attribution)*, a free and open-source license. For more information, please see the [license file](https://github.com/Kichura/Minecraft_ARM/blob/stable/LICENSE).
