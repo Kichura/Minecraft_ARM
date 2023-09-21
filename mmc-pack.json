@@ -10,10 +10,10 @@
         },
         {
             "cachedName": "Netty",
-            "cachedVersion": "4.1.97.Final",
+            "cachedVersion": "4.1.98.Final",
             "cachedVolatile": true,
             "uid": "io.netty",
-            "version": "4.1.97.Final"
+            "version": "4.1.98.Final"
         },
         {
             "cachedName": "ca.weblite",
@@ -50,10 +50,10 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "cachedVersion": "1.20.1",
+            "cachedVersion": "1.20.2",
             "important": true,
             "uid": "net.minecraft",
-            "version": "1.20.1"
+            "version": "1.20.2"
         }
     ],
     "formatVersion": 1
