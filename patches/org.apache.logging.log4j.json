@@ -24,8 +24,8 @@
     {
       "downloads": {
           "artifact": {
-              "sha1": "911fdb5b1a1df36719c579ecc6f2957b88bce1ab",
-              "size": 24478,
+              "sha1": "070c38c479f4c495cab11da8396348eebffefcb2",
+              "size": 27266,
               "url": "https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-slf4j2-impl/2.21.0/log4j-slf4j2-impl-2.21.0.jar"
           }
       },
