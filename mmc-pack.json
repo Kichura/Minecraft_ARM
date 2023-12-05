@@ -50,10 +50,10 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "cachedVersion": "1.20.2",
+            "cachedVersion": "1.20.3",
             "important": true,
             "uid": "net.minecraft",
-            "version": "1.20.2"
+            "version": "1.20.3"
         }
     ],
     "formatVersion": 1
