@@ -3,19 +3,19 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "b1d8ab82d11d92fd639b56d639f8f46f739dd5fa",
-                    "size": 979212,
-                    "url": "https://repo1.maven.org/maven2/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar"
+                    "sha1": "5b5d8af758b48010b2b6c86ed1eb2beab2ba66ed",
+                    "size": 979498,
+                    "url": "https://repo1.maven.org/maven2/com/github/oshi/oshi-core/6.4.11/oshi-core-6.4.11.jar"
                 }
             },
-            "name": "com.github.oshi:oshi-core:6.4.10"
+            "name": "com.github.oshi:oshi-core:6.4.11"
         }
     ],
     "name": "Oshi",
     "order": 1,
-    "releaseTime": "2023-12-24",
+    "releaseTime": "2024-01-11",
     "type": "release",
     "uid": "com.github.oshi",
-    "version": "6.4.10",
+    "version": "6.4.11",
     "volatile": true
 }
