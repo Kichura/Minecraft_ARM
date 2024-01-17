@@ -171,7 +171,7 @@
     ],
     "name": "Netty",
     "order": 4,
-    "releaseTime": "2023-12-16",
+    "releaseTime": "2024-01-16",
     "type": "release",
     "uid": "io.netty",
     "version": "4.1.105.Final",
