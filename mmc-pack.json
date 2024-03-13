@@ -22,10 +22,10 @@
         },
         {
             "cachedName": "Apache Log4J",
-            "cachedVersion": "2.23.0",
+            "cachedVersion": "2.23.1",
             "cachedVolatile": true,
             "uid": "org.apache.logging.log4j",
-            "version": "2.23.0"
+            "version": "2.23.1"
         },
         {
             "cachedName": "SLF4J",
@@ -36,10 +36,10 @@
         },
         {
             "cachedName": "Oshi",
-            "cachedVersion": "6.4.13",
+            "cachedVersion": "6.5.0",
             "cachedVolatile": true,
             "uid": "com.github.oshi",
-            "version": "6.4.13"
+            "version": "6.5.0"
         },
         {
             "cachedName": "Minecraft",
