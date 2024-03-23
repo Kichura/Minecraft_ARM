@@ -10,10 +10,10 @@
         },
         {
             "cachedName": "Netty",
-            "cachedVersion": "4.1.107.Final",
+            "cachedVersion": "4.1.108.Final",
             "cachedVolatile": true,
             "uid": "io.netty",
-            "version": "4.1.107.Final"
+            "version": "4.1.108.Final"
         },
         {
             "cachedName": "ca.weblite",
