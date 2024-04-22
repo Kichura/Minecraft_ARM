@@ -36,10 +36,10 @@
         },
         {
             "cachedName": "Oshi",
-            "cachedVersion": "6.5.0",
+            "cachedVersion": "6.6.0",
             "cachedVolatile": true,
             "uid": "com.github.oshi",
-            "version": "6.5.0"
+            "version": "6.6.0"
         },
         {
             "cachedName": "Minecraft",
