@@ -12,7 +12,7 @@ and finally; Minecraft 1.14 or newer is required aswell for both to work as 1.7.
 
 1. [**Click here to download the pack**](https://github.com/Kichura/Minecraft_ARM/archive/refs/heads/stable.zip),
 2. Drag the ZIP into the Prism Launcher window,
-3. Make sure the installed instance has Java 17 or greater installed.
+3. Make sure the installed instance has Java 21 or greater installed.
 
 ## License
 
