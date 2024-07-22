@@ -2,11 +2,11 @@
     "components": [
         {
             "cachedName": "LWJGL 3",
-            "cachedVersion": "3.3.3",
+            "cachedVersion": "3.3.4",
             "cachedVolatile": true,
             "dependencyOnly": true,
             "uid": "org.lwjgl3",
-            "version": "3.3.3"
+            "version": "3.3.4"
         },
         {
             "cachedName": "ca.weblite",
@@ -29,17 +29,17 @@
         },
         {
             "cachedName": "Oshi",
-            "cachedVersion": "6.6.1",
+            "cachedVersion": "6.6.2",
             "cachedVolatile": true,
             "uid": "com.github.oshi",
-            "version": "6.6.1"
+            "version": "6.6.2"
         },
         {
             "cachedName": "Minecraft",
             "cachedRequires": [
                 {
-                    "equals": "3.3.3",
-                    "suggests": "3.3.3",
+                    "equals": "3.3.4",
+                    "suggests": "3.3.4",
                     "uid": "org.lwjgl3"
                 }
             ],
