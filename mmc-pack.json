@@ -22,10 +22,10 @@
         },
         {
             "cachedName": "SLF4J",
-            "cachedVersion": "2.0.13",
+            "cachedVersion": "2.0.15",
             "cachedVolatile": true,
             "uid": "org.slf4j",
-            "version": "2.0.13"
+            "version": "2.0.15"
         },
         {
             "cachedName": "Oshi",
