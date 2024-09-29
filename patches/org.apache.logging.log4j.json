@@ -33,7 +33,7 @@
       }
     ],
     "name": "Apache Log4J",
-    "order": 6,
+    "order": 4,
     "releaseTime": "2024-09-03",
     "type": "release",
     "uid": "org.apache.logging.log4j",

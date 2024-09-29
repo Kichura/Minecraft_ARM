@@ -12,7 +12,7 @@
         }
     ],
     "name": "SLF4J",
-    "order": 5,
+    "order": 3,
     "releaseTime": "2024-08-10",
     "type": "release",
     "uid": "org.slf4j",

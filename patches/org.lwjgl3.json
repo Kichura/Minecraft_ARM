@@ -1497,7 +1497,7 @@
         }
     ],
     "name": "LWJGL 3",
-    "order": 9,
+    "order": 5,
     "releaseTime": "2024-07-18",
     "type": "release",
     "uid": "org.lwjgl3",
