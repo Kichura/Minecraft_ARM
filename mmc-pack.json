@@ -15,10 +15,10 @@
         },
         {
             "cachedName": "Apache Log4J",
-            "cachedVersion": "2.24.0",
+            "cachedVersion": "2.24.1",
             "cachedVolatile": true,
             "uid": "org.apache.logging.log4j",
-            "version": "2.24.0"
+            "version": "2.24.1"
         },
         {
             "cachedName": "SLF4J",
