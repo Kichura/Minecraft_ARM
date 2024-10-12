@@ -43,7 +43,7 @@
         }
     ],
     "name": "Java Objective C Bridge",
-    "order": 1,
+    "order": 5,
     "releaseTime": "2022-03-18",
     "type": "release",
     "uid": "ca.weblite",
