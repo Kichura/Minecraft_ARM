@@ -2,11 +2,11 @@
     "components": [
         {
             "cachedName": "LWJGL 3",
-            "cachedVersion": "3.3.4",
+            "cachedVersion": "3.3.5",
             "cachedVolatile": true,
             "dependencyOnly": true,
             "uid": "org.lwjgl3",
-            "version": "3.3.4"
+            "version": "3.3.5"
         },
         {
             "cachedName": "ca.weblite",
@@ -15,10 +15,10 @@
         },
         {
             "cachedName": "Apache Log4J",
-            "cachedVersion": "2.24.1",
+            "cachedVersion": "2.24.3",
             "cachedVolatile": true,
             "uid": "org.apache.logging.log4j",
-            "version": "2.24.1"
+            "version": "2.24.3"
         },
         {
             "cachedName": "SLF4J",
